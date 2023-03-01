@@ -21,7 +21,6 @@ social: false  # includes social icons at the bottom of the page
 
 <p>Was ich biete</p>
 <br>
-<br>
 <p>Fähigkeiten und Kenntnisse</p>
 
 
