@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 <p><b>Was ich biete</b></p>
 <p>Lehre, Forschung und Transfer im Kontext von Public Health und Digital Public Health.</p>
 <br />
-<p><b>Schwerpunkte</b></p>
+<p><b>Inhaltliche Schwerpunkte</b></p>
 Setting basierte Prävention und Gesundheitsförderung | Digitale Gesundheitskompetenz in prekären Lebenslagen | Technikunterstützte Versorgung und Technikakzeptanz | Games 4 Health | Gesundheitsliche Ungleichheit | Bevölkerungs- und Gesundheitssoziologische Rahmenbedingungen von Mortalität, Morbidität und Fertilität | Modernisierung und Gesundheit | Kultursensible Gesundheitsforschung | Empirische Sozial- und Gesundheitsforschung</p>
 <br />
 <p><b>Kurzvorstellung</b></p>
