@@ -2,7 +2,7 @@
 layout: about
 title: Über mich
 permalink: /
-subtitle: Wissenschaftlicher Mitarbeiter und Lehrbeauftragter #<a href='#'>'#'</a>.
+<!--subtitle: TEXT TEXT TEXT <a href='#'>'#'</a>.-->
 
 profile:
   align: right
@@ -20,11 +20,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 <br>
 ##### **Was ich biete**
-Lehre, Forschung und Transfer im Kontext von Public Health und Digital Public Health.
+Forschung, Lehre und Transfer im Kontext von Public Health.
 <br>
 <br>
 ##### **Inhaltliche Schwerpunkte**
-Setting basierte Prävention und Gesundheitsförderung | Digitale Gesundheitskompetenz in prekären Lebenslagen | Technikunterstützte Versorgung und Technikakzeptanz | Games 4 Health | Gesundheitsliche Ungleichheit | Bevölkerungs- und Gesundheitssoziologische Rahmenbedingungen von Mortalität, Morbidität und Fertilität | Modernisierung und Gesundheit | Kultursensible Gesundheitsforschung | Empirische Sozial- und Gesundheitsforschung
+Setting basierte Prävention und Gesundheitsförderung mit digitalen Medien | Digitale Gesundheitskompetenz in prekären Lebenslagen | Technikunterstützte Versorgung und Technikakzeptanz | Games 4 Health und Gamification | Gesundheitsliche Ungleichheit | Bevölkerungs- und Gesundheitssoziologische Rahmenbedingungen von Mortalität, Morbidität und Fertilität | Modernisierung und Gesundheit | Kultursensible Gesundheitsforschung | Empirische Sozial- und Gesundheitsforschung
 <br>
 <br>
 ##### **Kurzvorstellung**
