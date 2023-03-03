@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
      <p style="font-size: 0.75rem; text-align:right; margin-top: -1rem; margin-bottom: 0.5rem;"> © P. Pollmeier/FH Bielefeld </p>
-     <p>'#'</p>
-     <p>'#'</p>
-     <p>'#'</p>
+     <p></p>
+     <p></p>
+     <p></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
