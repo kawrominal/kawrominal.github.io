@@ -22,8 +22,10 @@ social: false  # includes social icons at the bottom of the page
 #### Was ich biete
 Lehre, Forschung und Transfer im Kontext von Public Health und Digital Public Health.
 
+
 #### Inhaltliche Schwerpunkte
 Setting basierte Prävention und Gesundheitsförderung | Digitale Gesundheitskompetenz in prekären Lebenslagen | Technikunterstützte Versorgung und Technikakzeptanz | Games 4 Health | Gesundheitsliche Ungleichheit | Bevölkerungs- und Gesundheitssoziologische Rahmenbedingungen von Mortalität, Morbidität und Fertilität | Modernisierung und Gesundheit | Kultursensible Gesundheitsforschung | Empirische Sozial- und Gesundheitsforschung
+
 
 #### Kurzvorstellung
 Von Haus aus Gesundheitswissenschaftler (Public Health) ist es mir seit jeher ein Anliegen, die bevölkerungsbezogene Gesundheitsforschung voranzubringen und hierbei insbesondere die digitale Transformation in der Gesundheitsversorgung mitzugestalten. Die Heterogenität meiner betreuten Projekte ist ebenso wie der Forschungsradius von Public Health groß und von einem hohen Maß an Inter- und Transdisziplinarität geprägt. Schwerpunkte finden sich dabei sowohl im Bereich Digital Public Health als auch in den Bereichen der Prävention und Gesundheitsförderung, der Gesundheitsbildung, der gesundheitlichen Ungleichheit und nicht zuletzt der Bevölkerungs- und Gesundheitssoziologie, sowie natürlich der empirischen Sozial- und Gesundheitsforschung.
