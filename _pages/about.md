@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Über mich
 permalink: /
 subtitle: Wissenschaftlicher Mitarbeiter und Lehrbeauftragter #<a href='#'>'#'</a>.
 
