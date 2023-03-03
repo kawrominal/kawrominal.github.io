@@ -9,7 +9,10 @@ profile:
   image: profilfoto.jpg
   image_circular: false # crops the image to make it circular
   address: >
- #   <p style="font-size: 0.75rem; text-align:right; margin-top: -1rem; margin-bottom: 0.5rem;"> © P. Pollmeier/FH Bielefeld </p> 
+     <p style="font-size: 0.75rem; text-align:right; margin-top: -1rem; margin-bottom: 0.5rem;"> © P. Pollmeier/FH Bielefeld </p>
+<br />
+<br />
+<br />
  #   <p>555 your office number</p>
  #   <p>123 your address street</p>
  #   <p>Your City, State 12345</p>
