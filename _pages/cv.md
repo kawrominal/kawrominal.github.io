@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: Curriculum Vitae
-description: false
+description:
 nav: true
 nav_order: 4
 --- 
